@@ -1,3 +1,4 @@
+"""Fibonacci sequence"""
 nterms = int(input("How many terms? "))
 
 # first two terms
