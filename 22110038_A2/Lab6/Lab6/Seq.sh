@@ -1,0 +1,1 @@
+for i in {1..10}; do pytest >> sequential_test_output.log; done

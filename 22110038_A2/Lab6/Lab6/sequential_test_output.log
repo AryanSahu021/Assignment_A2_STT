@@ -1,0 +1,195 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.1, pytest-8.3.5, pluggy-1.5.0
+rootdir: /workspaces/LAB_1_STT/Lab6
+plugins: anyio-4.7.0, xdist-3.6.1, run-parallel-0.3.1
+collected 414 items
+
+algorithms/tests/test_array.py ...........................               [  6%]
+algorithms/tests/test_automata.py .                                      [  6%]
+algorithms/tests/test_backtrack.py .........................             [ 12%]
+algorithms/tests/test_bfs.py ...                                         [ 13%]
+algorithms/tests/test_bit.py .............................               [ 20%]
+algorithms/tests/test_compression.py .....                               [ 21%]
+algorithms/tests/test_dfs.py ........                                    [ 23%]
+algorithms/tests/test_dp.py ...............................              [ 31%]
+algorithms/tests/test_graph.py ....................                      [ 35%]
+algorithms/tests/test_greedy.py .                                        [ 36%]
+algorithms/tests/test_heap.py .....                                      [ 37%]
+algorithms/tests/test_histogram.py .                                     [ 37%]
+algorithms/tests/test_iterative_segment_tree.py .........                [ 39%]
+algorithms/tests/test_linkedlist.py ............                         [ 42%]
+algorithms/tests/test_map.py .........................                   [ 48%]
+algorithms/tests/test_maths.py ......................................... [ 58%]
+.........                                                                [ 60%]
+algorithms/tests/test_matrix.py .............                            [ 64%]
+algorithms/tests/test_ml.py ..                                           [ 64%]
+algorithms/tests/test_monomial.py ........                               [ 66%]
+algorithms/tests/test_polynomial.py .......                              [ 68%]
+algorithms/tests/test_queues.py .....                                    [ 69%]
+algorithms/tests/test_search.py .............                            [ 72%]
+algorithms/tests/test_set.py .                                           [ 72%]
+algorithms/tests/test_sort.py ....................                       [ 77%]
+algorithms/tests/test_stack.py ..........                                [ 79%]
+algorithms/tests/test_streaming.py ....                                  [ 80%]
+algorithms/tests/test_strings.py ....................................... [ 90%]
+.........................                                                [ 96%]
+algorithms/tests/test_tree.py ...........                                [ 99%]
+algorithms/tests/test_unix.py ....                                       [100%]
+
+============================= 414 passed in 3.96s ==============================
+============================= test session starts ==============================
+platform linux -- Python 3.12.1, pytest-8.3.5, pluggy-1.5.0
+rootdir: /workspaces/LAB_1_STT/Lab6
+plugins: anyio-4.7.0, xdist-3.6.1, run-parallel-0.3.1
+collected 414 items
+
+algorithms/tests/test_array.py ...........................               [  6%]
+algorithms/tests/test_automata.py .                                      [  6%]
+algorithms/tests/test_backtrack.py .........................             [ 12%]
+algorithms/tests/test_bfs.py ...                                         [ 13%]
+algorithms/tests/test_bit.py .............................               [ 20%]
+algorithms/tests/test_compression.py .....                               [ 21%]
+algorithms/tests/test_dfs.py ........                                    [ 23%]
+algorithms/tests/test_dp.py ...............................              [ 31%]
+algorithms/tests/test_graph.py ....................                      [ 35%]
+algorithms/tests/test_greedy.py .                                        [ 36%]
+algorithms/tests/test_heap.py .....                                      [ 37%]
+algorithms/tests/test_histogram.py .                                     [ 37%]
+algorithms/tests/test_iterative_segment_tree.py .........                [ 39%]
+algorithms/tests/test_linkedlist.py ............                         [ 42%]
+algorithms/tests/test_map.py .........................                   [ 48%]
+algorithms/tests/test_maths.py ......................................... [ 58%]
+.........                                                                [ 60%]
+algorithms/tests/test_matrix.py .............                            [ 64%]
+algorithms/tests/test_ml.py ..                                           [ 64%]
+algorithms/tests/test_monomial.py ........                               [ 66%]
+algorithms/tests/test_polynomial.py .......                              [ 68%]
+algorithms/tests/test_queues.py .....                                    [ 69%]
+algorithms/tests/test_search.py .............                            [ 72%]
+algorithms/tests/test_set.py .                                           [ 72%]
+algorithms/tests/test_sort.py ....................                       [ 77%]
+algorithms/tests/test_stack.py ..........                                [ 79%]
+algorithms/tests/test_streaming.py ....                                  [ 80%]
+algorithms/tests/test_strings.py ....................................... [ 90%]
+.........................                                                [ 96%]
+algorithms/tests/test_tree.py ...........                                [ 99%]
+algorithms/tests/test_unix.py ....                                       [100%]
+
+============================= 414 passed in 4.37s ==============================
+============================= test session starts ==============================
+platform linux -- Python 3.12.1, pytest-8.3.5, pluggy-1.5.0
+rootdir: /workspaces/LAB_1_STT/Lab6
+plugins: anyio-4.7.0, xdist-3.6.1, run-parallel-0.3.1
+collected 414 items
+
+algorithms/tests/test_array.py ...........................               [  6%]
+algorithms/tests/test_automata.py .                                      [  6%]
+algorithms/tests/test_backtrack.py .........................             [ 12%]
+algorithms/tests/test_bfs.py ...                                         [ 13%]
+algorithms/tests/test_bit.py .............................               [ 20%]
+algorithms/tests/test_compression.py .....                               [ 21%]
+algorithms/tests/test_dfs.py ........                                    [ 23%]
+algorithms/tests/test_dp.py ...............................              [ 31%]
+algorithms/tests/test_graph.py ....................                      [ 35%]
+algorithms/tests/test_greedy.py .                                        [ 36%]
+algorithms/tests/test_heap.py .....                                      [ 37%]
+algorithms/tests/test_histogram.py .                                     [ 37%]
+algorithms/tests/test_iterative_segment_tree.py .........                [ 39%]
+algorithms/tests/test_linkedlist.py ............                         [ 42%]
+algorithms/tests/test_map.py .........................                   [ 48%]
+algorithms/tests/test_maths.py ......................................... [ 58%]
+.........                                                                [ 60%]
+algorithms/tests/test_matrix.py .............                            [ 64%]
+algorithms/tests/test_ml.py ..                                           [ 64%]
+algorithms/tests/test_monomial.py ........                               [ 66%]
+algorithms/tests/test_polynomial.py .......                              [ 68%]
+algorithms/tests/test_queues.py .....                                    [ 69%]
+algorithms/tests/test_search.py .............                            [ 72%]
+algorithms/tests/test_set.py .                                           [ 72%]
+algorithms/tests/test_sort.py ....................                       [ 77%]
+algorithms/tests/test_stack.py ..........                                [ 79%]
+algorithms/tests/test_streaming.py ....                                  [ 80%]
+algorithms/tests/test_strings.py ....................................... [ 90%]
+.........................                                                [ 96%]
+algorithms/tests/test_tree.py ...........                                [ 99%]
+algorithms/tests/test_unix.py ....                                       [100%]
+
+============================= 414 passed in 4.32s ==============================
+============================= test session starts ==============================
+platform linux -- Python 3.12.1, pytest-8.3.5, pluggy-1.5.0
+rootdir: /workspaces/LAB_1_STT/Lab6
+plugins: anyio-4.7.0, xdist-3.6.1, run-parallel-0.3.1
+collected 414 items
+
+algorithms/tests/test_array.py ...........................               [  6%]
+algorithms/tests/test_automata.py .                                      [  6%]
+algorithms/tests/test_backtrack.py .........................             [ 12%]
+algorithms/tests/test_bfs.py ...                                         [ 13%]
+algorithms/tests/test_bit.py .............................               [ 20%]
+algorithms/tests/test_compression.py .....                               [ 21%]
+algorithms/tests/test_dfs.py ........                                    [ 23%]
+algorithms/tests/test_dp.py ...............................              [ 31%]
+algorithms/tests/test_graph.py ....................                      [ 35%]
+algorithms/tests/test_greedy.py .                                        [ 36%]
+algorithms/tests/test_heap.py .....                                      [ 37%]
+algorithms/tests/test_histogram.py .                                     [ 37%]
+algorithms/tests/test_iterative_segment_tree.py .........                [ 39%]
+algorithms/tests/test_linkedlist.py ............                         [ 42%]
+algorithms/tests/test_map.py .........................                   [ 48%]
+algorithms/tests/test_maths.py ......................................... [ 58%]
+.........                                                                [ 60%]
+algorithms/tests/test_matrix.py .............                            [ 64%]
+algorithms/tests/test_ml.py ..                                           [ 64%]
+algorithms/tests/test_monomial.py ........                               [ 66%]
+algorithms/tests/test_polynomial.py .......                              [ 68%]
+algorithms/tests/test_queues.py .....                                    [ 69%]
+algorithms/tests/test_search.py .............                            [ 72%]
+algorithms/tests/test_set.py .                                           [ 72%]
+algorithms/tests/test_sort.py ....................                       [ 77%]
+algorithms/tests/test_stack.py ..........                                [ 79%]
+algorithms/tests/test_streaming.py ....                                  [ 80%]
+algorithms/tests/test_strings.py ....................................... [ 90%]
+.........................                                                [ 96%]
+algorithms/tests/test_tree.py ...........                                [ 99%]
+algorithms/tests/test_unix.py ....                                       [100%]
+
+============================= 414 passed in 4.39s ==============================
+============================= test session starts ==============================
+platform linux -- Python 3.12.1, pytest-8.3.5, pluggy-1.5.0
+rootdir: /workspaces/LAB_1_STT/Lab6
+plugins: anyio-4.7.0, xdist-3.6.1, run-parallel-0.3.1
+collected 414 items
+
+algorithms/tests/test_array.py ...........................               [  6%]
+algorithms/tests/test_automata.py .                                      [  6%]
+algorithms/tests/test_backtrack.py .........................             [ 12%]
+algorithms/tests/test_bfs.py ...                                         [ 13%]
+algorithms/tests/test_bit.py .............................               [ 20%]
+algorithms/tests/test_compression.py .....                               [ 21%]
+algorithms/tests/test_dfs.py ........                                    [ 23%]
+algorithms/tests/test_dp.py ...............................              [ 31%]
+algorithms/tests/test_graph.py ....................                      [ 35%]
+algorithms/tests/test_greedy.py .                                        [ 36%]
+algorithms/tests/test_heap.py .....                                      [ 37%]
+algorithms/tests/test_histogram.py .                                     [ 37%]
+algorithms/tests/test_iterative_segment_tree.py .........                [ 39%]
+algorithms/tests/test_linkedlist.py ............                         [ 42%]
+algorithms/tests/test_map.py .........................                   [ 48%]
+algorithms/tests/test_maths.py ......................................... [ 58%]
+.........                                                                [ 60%]
+algorithms/tests/test_matrix.py .............                            [ 64%]
+algorithms/tests/test_ml.py ..                                           [ 64%]
+algorithms/tests/test_monomial.py ........                               [ 66%]
+algorithms/tests/test_polynomial.py .......                              [ 68%]
+algorithms/tests/test_queues.py .....                                    [ 69%]
+algorithms/tests/test_search.py .............                            [ 72%]
+algorithms/tests/test_set.py .                                           [ 72%]
+algorithms/tests/test_sort.py ....................                       [ 77%]
+algorithms/tests/test_stack.py ..........                                [ 79%]
+algorithms/tests/test_streaming.py ....                                  [ 80%]
+algorithms/tests/test_strings.py ....................................... [ 90%]
+.........................                                                [ 96%]
+algorithms/tests/test_tree.py ...........                                [ 99%]
+algorithms/tests/test_unix.py ....                                       [100%]
+
+============================= 414 passed in 4.29s ==============================
